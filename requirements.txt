@@ -1,7 +1,4 @@
-base64
-math
-datetime
-cufflinks
-numpy
-pandas
-streamlit
+cufflinks==0.17.3
+numpy==1.24.1
+pandas==1.5.3
+streamlit==1.16.0
